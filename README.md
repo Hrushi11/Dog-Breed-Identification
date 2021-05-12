@@ -1,5 +1,5 @@
 # Multi Class Dog Breed Classification
-This notebook builds an end-to-end multi-class image classifier using Tensorflow 2.0 and Tensorflow Hub.
+This repo deals with building an end-to-end multi-class image classifier using Tensorflow 2.0 and Tensorflow Hub.
 
 ## 1. Problem
 Identifying the breed of a dog given an image of a dog.
